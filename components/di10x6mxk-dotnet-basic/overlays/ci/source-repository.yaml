@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: di10x6mxk-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/di10x6mxk-dotnet-basic
